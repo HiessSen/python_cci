@@ -21,7 +21,7 @@
 - Créer une fonction produit_liste(liste) qui prend une liste de nombres et retourne leur produit.
 
 ## Exercice 4
-### Créer une fonction table_multiplication(n) qui affiche la table de multiplication de n de 1 à 10.
+- Créer une fonction table_multiplication(n) qui affiche la table de multiplication de n de 1 à 10.
 - Créer une fonction compter_voyelles(chaine) qui retourne le nombre de voyelles dans une chaîne de caractères.
 - Créer une fonction generer_mot_de_passe(longueur) qui génère un mot de passe aléatoire avec des lettres et chiffres.
 - Créer une fonction nombre_occurences(liste, valeur) qui compte combien de fois valeur apparaît dans liste.

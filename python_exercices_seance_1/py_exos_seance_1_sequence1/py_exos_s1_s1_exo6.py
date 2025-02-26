@@ -23,15 +23,15 @@
 #         print("Vous avez trouvé le nombre correct")
 #         break
 
-longueur = int(11)
-espace = ' '
-ligne = ''
-for i in range(1,longueur):
-    print((espace * 5) + ('*' * i))
+# longueur = int(11)
+# espace = ' '
+# ligne = ''
+# for i in range(1,longueur):
+#     print((espace * 5) + ('*' * i))
 
-nombre = int(input("Donne un nombre entre 5 et 10 : "))
-etoiles = '*'
-for i in range(1, nombre+1):
-    print((nombre - 1) * ' ', etoiles)
-    etoiles += '**'
-    nombre -= 1
+# nombre = int(input("Donne un nombre entre 5 et 10 : "))
+# etoiles = '*'
+# for i in range(1, nombre+1):
+#     print((nombre - 1) * ' ', etoiles)
+#     etoiles += '**'
+#     nombre -= 1

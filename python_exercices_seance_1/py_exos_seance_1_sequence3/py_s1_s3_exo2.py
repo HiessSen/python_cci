@@ -46,13 +46,13 @@ import math
 # print(factorielle(5))
 
 # def est_palindrome(mot):
-#     motInverse = ''
+#     mot_inverse = ''
 #     for i in range(len(mot)-1, -1, -1):
-#         motInverse += mot[i]
-#     if motInverse == mot:
+#         mot_inverse += mot[i]
+#     if mot_inverse == mot:
 #         return f"{mot} est un palindrome"
 #     else:
 #         return f"{mot} n'est pas un palindrome"
-# print(est_palindrome('rotor'))
-# print(est_palindrome('objet'))
+# mot_entre = input("Entrez un mot : ")
+# print(est_palindrome(mot_entre))
 
