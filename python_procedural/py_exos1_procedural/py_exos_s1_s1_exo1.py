@@ -1,0 +1,12 @@
+print("EXERCICE 1")
+nomPrenom1 = "Ilan SENOUCI"
+print(nomPrenom1)
+age1 = str(input("Quel age avez vous ?"))
+print(f"Je m'appelle {nomPrenom1} et j'ai {age1} ans")
+nombre1 = int(input("Veuillez entrer un nombre"))
+nombre2 = int(input("Veuillez entrer un autre nombre"))
+print(f"Addition : {nombre1 + nombre2} - soustraction : {nombre1 - nombre2} - multipiclation : {nombre1 * nombre2} - Division : {nombre1 / nombre2}")
+motDemande = input("Veuillez entrer un mot")
+print(motDemande.lower())
+print(motDemande.upper())
+print(len(motDemande))

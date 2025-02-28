@@ -1,0 +1,7 @@
+from random import randint
+
+melanger = [
+    'élément_1', 'élément_2', 'élément_3', 'élément_4', 'élément_5', 'élément_6', 'élément_7', 'élément_8', 'élément_9', 'élément_10', 'élément_11', 'élément_12', 'élément_13', 'élément_14', 'élément_15', 'élément_16', 'élément_17', 'élément_18', 'élément_19', 'élément_20', 'élément_21', 'élément_22', 'élément_23', 'élément_24', 'élément_25', 'élément_26', 'élément_27', 'élément_28', 'élément_29', 'élément_30', 'élément_31', 'élément_32', 'élément_33', 'élément_34', 'élément_35', 'élément_36', 'élément_37', 'élément_38', 'élément_39', 'élément_40', 'élément_41', 'élément_42', 'élément_43', 'élément_44', 'élément_45', 'élément_46', 'élément_47', 'élément_48', 'élément_49', 'élément_50', 'élément_51', 'élément_52', 'élément_53', 'élément_54', 'élément_55', 'élément_56', 'élément_57', 'élément_58', 'élément_59', 'élément_60', 'élément_61', 'élément_62', 'élément_63', 'élément_64', 'élément_65', 'élément_66', 'élément_67', 'élément_68', 'élément_69', 'élément_70', 'élément_71', 'élément_72', 'élément_73', 'élément_74', 'élément_75', 'élément_76', 'élément_77', 'élément_78', 'élément_79', 'élément_80', 'élément_81', 'élément_82', 'élément_83', 'élément_84', 'élément_85', 'élément_86', 'élément_87', 'élément_88', 'élément_89', 'élément_90', 'élément_91', 'élément_92', 'élément_93', 'élément_94', 'élément_95', 'élément_96', 'élément_97', 'élément_98', 'élément_99', 'élément_100'
+]
+entier = randint(1, 100)
+print(melanger[entier])
